@@ -16,7 +16,7 @@
 ### 🧑‍💻 Tentang Saya
 
 - 🏢 **Software Engineer** di [DANA Indonesia](https://www.dana.id)
-- 🎓 **Dosen Ilmu Komputer** — mengajar DevOps, backend, & rekayasa perangkat lunak
+- 🎓 **Hobi berbagi ilmu pengetahuan** — mengajar DevOps, backend, & rekayasa perangkat lunak
 - 💍 Membangun **[Velluna Wedding](https://vellunawedding.com)** — SaaS undangan pernikahan online berbasis AI
 - ⛪ Aktif di komunitas gereja **HKBP Kernolong** — membuat tools open source untuk pelayanan
 - 🌏 Berbahasa **Indonesia** & **English**
@@ -51,18 +51,6 @@
 | ⛪ **[churchwebsite](https://github.com/yayanberutu/churchwebsite)** | Website komunitas gereja |
 | 🌐 **[berutu-dev](https://github.com/yayanberutu/berutu-dev)** | Personal site & portofolio |
 
----
-
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yayanberutu&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayanberutu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayanberutu&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
