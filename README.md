@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--  Profile README untuk github.com/yayanberutu                     -->
+<!--  Simpan file ini sebagai README.md di repo bernama "yayanberutu" -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<!--
-**yayanberutu/yayanberutu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Halo, saya Yosepri 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/yayanberutu">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F86C6&center=true&vCenter=true&width=460&lines=Software+Engineer+%40+DANA+Indonesia;Computer+Science+Instructor;Founder+of+Velluna+Wedding;In+Love+with+Code+%F0%9F%92%AD" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Tentang Saya
+
+- 🏢 **Software Engineer** di [DANA Indonesia](https://www.dana.id)
+- 🎓 **Dosen Ilmu Komputer** — mengajar DevOps, backend, & rekayasa perangkat lunak
+- 💍 Membangun **[Velluna Wedding](https://vellunawedding.com)** — SaaS undangan pernikahan online berbasis AI
+- ⛪ Aktif di komunitas gereja **HKBP Kernolong** — membuat tools open source untuk pelayanan
+- 🌏 Berbahasa **Indonesia** & **English**
+- 📫 Hubungi saya: **[Instagram @vellunawedding](https://instagram.com/vellunawedding)**
+
+---
+
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Proyek Pilihan
+
+| Proyek | Deskripsi |
+| :--- | :--- |
+| 💍 **[Velluna Wedding](https://vellunawedding.com)** | Platform SaaS undangan pernikahan online elegan berbasis AI |
+| 🎵 **[songslide-app](https://github.com/yayanberutu/songslide-app)** | Digitalisasi not angka lagu gereja → ekspor slide PPTX/PNG |
+| ⛪ **[churchwebsite](https://github.com/yayanberutu/churchwebsite)** | Website komunitas gereja |
+| 🌐 **[berutu-dev](https://github.com/yayanberutu/berutu-dev)** | Personal site & portofolio |
+
+---
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yayanberutu&show_icons=true&count_private=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayanberutu&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayanberutu&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <i>💭 In Love with Code</i>
+</p>
