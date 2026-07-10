@@ -1,59 +1,112 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  Profile README untuk github.com/yayanberutu                     -->
-<!--  Simpan file ini sebagai README.md di repo bernama "yayanberutu" -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  Profile README for github.com/yayanberutu                          -->
+<!--  Lives in the special repo "yayanberutu" — renders on the profile.  -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h1 align="center">Halo, saya Yosepri 👋</h1>
+<h1 align="center">Yosepri Disyandro Berutu</h1>
 
 <p align="center">
-  <a href="https://github.com/yayanberutu">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F86C6&center=true&vCenter=true&width=460&lines=Software+Engineer+%40+DANA+Indonesia;Computer+Science+Instructor;Founder+of+Velluna+Wedding;In+Love+with+Code+%F0%9F%92%AD" alt="Typing SVG" />
-  </a>
+  <b>Backend engineer building reliable payment systems.</b>
+</p>
+
+<p align="center">
+  Backend Software Engineer at <a href="https://www.dana.id">DANA Indonesia</a> · OS QR team ·
+  ~5 years in payment systems
 </p>
 
 ---
 
-### 🧑‍💻 Tentang Saya
+### About
 
-- 🏢 **Software Engineer** di [DANA Indonesia](https://www.dana.id)
-- 🎓 **Hobi berbagi ilmu pengetahuan** — mengajar DevOps, backend, & rekayasa perangkat lunak
-- 💍 Membangun **[Velluna Wedding](https://vellunawedding.com)** — SaaS undangan pernikahan online berbasis AI
-- ⛪ Aktif di komunitas gereja **HKBP Kernolong** — membuat tools open source untuk pelayanan
-- 🌏 Berbahasa **Indonesia** & **English**
-- 📫 Hubungi saya: **[Instagram @vellunawedding](https://instagram.com/vellunawedding)**
-
----
-
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+Backend engineer with ~5 years focused on payment systems. At DANA — one of Indonesia's
+largest e-wallets — I work on the OS QR team, building QRIS acquiring and cross-border QR
+payment flows (including non-EMV). My work centers on the parts of payments that have to be
+correct under load: merchant settlement & reconciliation, idempotency, offline payments, and
+event-driven, high-throughput transaction processing. ICPC Regional Finalist with a
+competitive-programming background.
 
 ---
 
-### 🚀 Proyek Pilihan
+### Tech Stack
 
-| Proyek | Deskripsi |
-| :--- | :--- |
-| 💍 **[Velluna Wedding](https://vellunawedding.com)** | Platform SaaS undangan pernikahan online elegan berbasis AI |
-| 🎵 **[songslide-app](https://github.com/yayanberutu/songslide-app)** | Digitalisasi not angka lagu gereja → ekspor slide PPTX/PNG |
-| ⛪ **[churchwebsite](https://github.com/yayanberutu/churchwebsite)** | Website komunitas gereja |
-| 🌐 **[berutu-dev](https://github.com/yayanberutu/berutu-dev)** | Personal site & portofolio |
+**Languages**
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Event-Driven](https://img.shields.io/badge/Event--Driven_Architecture-4B5563?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Data & Messaging**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-728E9B?style=flat&logo=apachenifi&logoColor=white)
+
+**Infra & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
+
+### Featured Projects
+
+#### 🪷 Velluna Wedding — SaaS for AI-powered wedding invitations
+
+An end-to-end product for creating online wedding invitations. An AI image-generation agent
+produces invitation themes tailored to each user's preferences; generation jobs are dispatched
+through a **Redis queue** to decoupled worker/generator processes for async processing.
+Payments run through the **Midtrans** gateway, and the whole thing ships via a **GitHub Actions**
+CI/CD pipeline — AI, async job processing, payments, and DevOps in one system.
+
+**Stack:** Next.js · TypeScript · Redis (job queue) · AI image generation · Midtrans · GitHub Actions
+&nbsp;·&nbsp; **Live demo:** [vellunawedding.com](https://vellunawedding.com) &nbsp;·&nbsp; _Source private — showcase entry_
+
+#### 🎵 Songslide — worship slide & song-learning tool
+
+A web app that digitizes church hymn numbered notation and exports selected verses to
+**PPTX / PNG** slides for display during worship services. Now being extended into a
+song-learning system with a per-voice-part music player, so each vocal part (e.g., SATB) can be
+played and practiced individually.
+
+**Stack:** TypeScript · slide export (PPTX / PNG) · audio playback
+&nbsp;·&nbsp; **Repo:** [songslide-app](https://github.com/yayanberutu/songslide-app)
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <i>💭 In Love with Code</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yayanberutu&show_icons=true&hide_border=true&card_width=450&hide=stars" alt="GitHub stats" />
 </p>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  Writing — ENABLE once at least one post is published.              -->
+<!--  Blog is currently empty; keep this commented out until it has      -->
+<!--  content so recruiters don't land on an empty page.                 -->
+<!--
+### Writing
+
+I write about backend and payment systems on my blog:
+[berutu.dev/blog](https://berutu.dev/blog/)
+
+- ⟨post title⟩ — ⟨short summary⟩
+-->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+---
+
+### Connect
+
+- **LinkedIn:** [in/yosepriberutu](https://www.linkedin.com/in/yosepriberutu/)
+- **Website:** [berutu.dev](https://berutu.dev)
+- **Email:** ⟨add a professional contact email, or remove this line⟩
